@@ -11,10 +11,12 @@ menu_settings:
   menu_items:
     - title: 'People'
       url: '/people'
-    - title: 'Software'
-      url: '/software'
     - title: 'Papers'
       url: '/papers'
+    - title: 'Lab Manual'
+      url: '/manual'
+    - title: 'Software'
+      url: '/software'
     - title: 'Contact'
       url: '/contact'
 
