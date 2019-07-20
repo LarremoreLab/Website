@@ -1,3 +1,5 @@
 _site/js/plugins/*
 _site/js/index-min.js
 js/plugins/*
+_site/css/style.css
+js/index-min.js

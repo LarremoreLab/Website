@@ -1,0 +1,28 @@
+dan:
+  name: Prof. Daniel Larremore
+  url: https://danlarremore.com
+  office: ECES 124
+  email: daniel.larremore@colorado.edu
+  pic: /images/people/dan.jpg
+phd_students:
+  - name: Tzu-Chi Yen
+    url: https://junipertcy.info/
+    email: tzuchi.yen@colorado.edu
+    pic: /images/people/tzuchi.jpg
+  - name: K. Hunter Wapman
+    url: https://hneutr.github.io
+    phone: +1 (650) 644-6608
+    email: hunter.wapman@gmail.com
+    pic: /images/people/hunter.png
+  - name: Erik Johnson
+    pic: /images/people/erik.jpg
+undergraduate_students:
+  - name: Apara Venkateswaran
+    pic: /images/people/apara.jpg
+    url: https://www.aparavenkat.com/
+  - name: Suyog Soti
+    pic: /images/people/suyog.jpg
+    url: https://suyogsoti.github.io/
+  - name: Katie Younglove
+    pic: /images/people/katie.png
+    url: https://www.linkedin.com/in/katherine-younglove-565353169/
