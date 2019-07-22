@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="{{ "/css/assets/webweb/style.css" | absolute_url }}">
+<script type="text/javascript" src="{{ "/js/assets/webweb/Blob.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/assets/webweb/colors.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/assets/webweb/d3.v5.min.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/assets/webweb/FileSaver.min.js" | absolute_url }}"></script>
+
+<div id='ftas-webweb-visualization' style='width: 100%'></div>
+<script type="text/javascript">
+    var wwdata = {{include.webweb_json | jsonify }};
+    wwdata.display.attachWebwebToElementWithId = "ftas-webweb-visualization";
+
+    {% if include.responsive == true %}
+    wwdata.display.w = undefined;
+    wwdata.display.h = undefined;
+    {% endif %}
+
+    {% if include.fix_width == false %}
+    wwdata.display.w = 250;
+    {% endif %}
+    {% if include.fix_height == false %}
+    wwdata.display.h = 250;
+    {% endif %}
+</script>
+<br>
+<script type="text/javascript" src="{{ "/js/assets/webweb/webweb.v5.js" | absolute_url }}?{{site.time | date: '%s%N'}}"></script> 
+<style>
+#webweb-visualization-container {
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+</style>

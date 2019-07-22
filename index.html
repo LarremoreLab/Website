@@ -2,36 +2,116 @@
 layout: default
 title: A minimal, fixed sidebar grid portfolio Jekyll theme.
 description: A minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/social.jpg
+featured_image: /images/netsci.jpg
 ---
+
+<div class="gallery" data-columns="1" style="margin: 1.5em auto; max-width: 800px;">
+    <img src="/images/mountains.jpeg">
+</div>
 
 <section class="portfolio">
 
 	<div class="content-wrap portfolio-wrap">
 
-		{% for project in site.projects reversed %}
+		<div class="portfolio-item">
+      <h2>News</h2>
+      <ul>
+      {% for event in site.data.events %}
+      <li>
+        {% if event.date%}
+        <b>{{event.date}} - </b>
+        {% endif %}
+        {{event.description}}
+        
+      </li>
+        
+      {% endfor %}
+      </ul>
+    </div>
 
 		<div class="portfolio-item">
-
 			<a class="portfolio-item__link" href="{{ project.url }}">
-
 				<div class="portfolio-item__image">
-					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+          {% include webweb.html webweb_json=site.data.index_web responsive=true %}
 				</div>
-
-				<div class="portfolio-item__content">
-					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
-					</div>
-				</div>
-
-			</a>
-
-		</div>
-
-		{% endfor %}
+      </a>
+    </div>
 
 	</div>
-
 </section>
+
+<div class="gallery" data-columns="3">
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="/people">
+				<div class="portfolio-item__image">
+					<img src="/images/people.jpeg" alt="people">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">people</h2>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="/papers">
+				<div class="portfolio-item__image">
+					<img src="/images/papers.png" alt="papers">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">papers</h2>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="/teaching">
+				<div class="portfolio-item__image">
+					<img src="/images/people/dan.jpg" alt="teaching">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">teaching</h2>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="/code">
+				<div class="portfolio-item__image">
+					<img src="/images/hacking.jpg" alt="code">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">code</h2>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="/data">
+				<div class="portfolio-item__image">
+					<img src="/images/data.jpg" alt="data">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">data</h2>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="/press">
+				<div class="portfolio-item__image">
+					<img src="/images/press.jpg" alt="press">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">press</h2>
+					</div>
+				</div>
+			</a>
+		</div>
+</div>
+

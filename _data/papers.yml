@@ -42,7 +42,7 @@
        url: "https://arxiv.org/abs/1804.05266"
  - title: "A physical model for efficient ranking in networks"
    authors:
-     - Caterina De Bacco*,
+     - Caterina De Bacco*
      - Daniel B. Larremore*
      - Cristopher Moore.
    year: 2018
@@ -278,8 +278,8 @@
  - title: "Predicting criticality and dynamic range in complex networks: effects of topology"
    authors:
      - Daniel B. Larremore
-       Woodrow L. Shew
-       Juan G. Restrepo
+     - Woodrow L. Shew
+     - Juan G. Restrepo
    year: 2011
    where: Physical Review Letters 106, p. 058101.
    links:

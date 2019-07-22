@@ -1,0 +1,20 @@
+ - title: "webweb"
+   authors:
+     - K. Hunter Wapman
+     - Daniel B. Larremore
+   links:
+     - text: documentation
+       url: "https://webwebpage.github.io"
+     - text: github
+       url: "https://github.com/dblarremore/webweb"
+ - title: "BiSBM"
+   authors:
+     - Tzu-Chi Yen
+     - Daniel B. Larremore
+   year: 2019
+ - title: "PercoViz"
+   authors:
+     - Daniel B. Larremore
+   links:
+     - text: documentation
+       url: "http://danlarremore.com/PercoVIS.html"
