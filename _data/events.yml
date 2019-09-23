@@ -1,21 +1,10 @@
-- description: I'll be at the Complex Networks Winter Workshop in Quebec City.
+- description: "New software paper with Hunter Wapman in The Journal of Open Source Software: webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web. 
+[<a href='http://webwebpage.github.io/'>github</a>]
+[<a href='https://joss.theoj.org/papers/10.21105/joss.01458'>JOSS</a>]"
+  date: 2019 Aug 12
+- description: <a href="http://www.nimbios.org/">NIMBIOS</a> network null models working group.
+  date: 2019 Oct 24-26 
+- description: Colorado School of Mines, Department of Applied Mathematics and Statistics Colloquium.
+  date: 2019 Nov 8 
+- description: Complex Networks Winter Workshop in Quebec City.
   date: 2019 Dec 15-20
-- description: I'll be at the <a href="https://2019.ic2s2.org/">International Conference on Computational Social Science</a>.
-  date: 2019 July 17-20
-- description: Structured Hierarchy in Online Dating Networks
-- description: Teaching at the Santa Fe Institute's <a href="https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school">Complex Systems Summer School</a>.
-  date: 2019 June 24-25
-- description: I'll be at the <a href="http://www.choicesymposium.org/">Triennial Choice Symposium</a>.
-  date: 2019 May 29 - June 2
-- description: I'll be at <a href="http://vermontcomplexsystems.org/events/netsci/">NetSci 2019</a>.
-  date: 2019 May 27-28
-- description: School Speaker - Large-scale structures in networks - Hidden communities and latent hierarchies
-- description: Poster from <a href="http://hneutr.github.io/me.html">Hunter Wapman</a> - Revealing Narrative Complexity Through Temporal Co-occurrence Networks.
-- description: I'll be at <a href="https://www.siam.org/Conferences/CM/Main/ns19">SIAM Network Science 2019</a>.
-  date: 2019 May 22-23
-- description: Talk - Structured Hierarchy in Online Dating Networks
-- description: Giving a talk at the <a href="https://ccdd.hsph.harvard.edu/event/id-epi-seminar-series-daniel-larremore/">Infectious Disease Epidemiology seminar series</a>, Harvard School of Public Health.
-  date: 2019 May 9
-- description: Complex networks and P. falciparum - from evolution to epidemiology
-- description: New paper in <i>PLOS Computational Biology</i> - Bayes-optimal estimation of overlap between populations of fixed size. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006898">PLOS Computational Biology</a>]
-  date: 2019 Mar 29

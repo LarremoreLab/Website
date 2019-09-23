@@ -1,28 +1,50 @@
-dan:
-  name: Daniel B. Larremore
-  url: https://danlarremore.com
-  office: ECES 124
-  email: daniel.larremore@colorado.edu
-  pic: /images/people/dan.jpg
-phd_students:
+people:
+  - name: Dan Larremore
+    url: https://danlarremore.com
+    pic: /images/people/chicken.gif
+    title: Principal Investigator
+    subject: Assistant Professor
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
-    email: tzuchi.yen@colorado.edu
     pic: /images/people/tzuchi.jpg
+    title: PhD Student, CS
+    subject: complex networks
   - name: K. Hunter Wapman
     url: https://hneutr.github.io
-    phone: +1 (650) 644-6608
-    email: hunter.wapman@gmail.com
-    pic: /images/people/hunter.png
+    pic: /images/people/hunter.gif
+    title: PhD Student, CS
+    subject: the scientific ecosystem
   - name: Erik Johnson
     pic: /images/people/erik.jpg
-undergraduate_students:
+    title: PhD Student, APPM
+    subject: malaria parasite genetics
+  - name: Ian van Buskirk
+    pic: /images/people/ianvanbuskirk.jpg
+    title: PhD Student, CS
+    subject: the scientific ecosystem
+  - name: Nick LaBerge
+    pic: /images/people/nicklaberge.jpg
+    title: PhD Student, CS
+    subject: the scientific ecosystem
+  - name: Mike Hoefer
+    pic: /images/people/mikehoefer.jpg
+    title: PhD Student, CS
+    subject: the scientific ecosystem
+  - name: Kate Bubar
+    pic: /images/people/katebubar.jpg
+    title: Rotation PhD Student, IQ Bio
+    subject: malaria parasite genetics
   - name: Apara Venkateswaran
     pic: /images/people/apara.jpg
     url: https://www.aparavenkat.com/
+    title: Undergrad Student, CS & APPM
+    subject: complex networks
+  - name: Suchita Lulla
+    pic: /images/people/suchi.jpg
+    title: Undergrad Student, CS & MCDB
+    subject: malaria parasite genetics
+alumni:
   - name: Suyog Soti
-    pic: /images/people/suyog.jpg
     url: https://suyogsoti.github.io/
-  - name: Katie Younglove
-    pic: /images/people/katie.png
+  - name: Katherine Younglove
     url: https://www.linkedin.com/in/katherine-younglove-565353169/
