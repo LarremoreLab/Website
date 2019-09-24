@@ -31,4 +31,3 @@ featured_image: /images/demo/demo-landscape.jpg
   <!-- </li> -->
   <!-- </ul> -->
 {% endfor %}
-</ol>
