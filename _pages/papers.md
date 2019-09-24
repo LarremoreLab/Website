@@ -22,12 +22,9 @@ featured_image: /images/demo/demo-landscape.jpg
   {% endif %}
   ({{paper.year}}).
   <br>
-  <!-- </li> -->
-  <!-- <li> -->
   {% for link in paper.links %}
   [<a href="{{link.url}}">{{link.text}}</a>] 
   {% endfor %}
-  <br><br>
-  <!-- </li> -->
-  <!-- </ul> -->
+  <br><br></li>
 {% endfor %}
+</ol>
