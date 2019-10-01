@@ -1,3 +1,4 @@
+_site/*
 _site/js/plugins/*
 _site/js/index-min.js
 js/plugins/*
@@ -6,3 +7,4 @@ js/index-min.js
 *.DS_Store
 *.psd
 *.mov
+.sass-cache/*
