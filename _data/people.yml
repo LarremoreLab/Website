@@ -32,16 +32,16 @@ people:
     subject: the scientific ecosystem
   - name: Kate Bubar
     pic: /images/people/katebubar.jpg
-    title: Rotation PhD Student, IQ Bio
+    title: PhD Student, IQ Bio
     subject: malaria parasite genetics
   - name: Suchita Lulla
     pic: /images/people/suchi.jpg
-    title: Undergrad Student, CS & MCDB
+    title: Undergrad, CS & MCDB
     subject: malaria parasite genetics
   - name: Apara Venkat
     pic: /images/people/apara.gif
     url: https://www.aparavenkat.com/
-    title: Undergrad Student, CS & APPM
+    title: Undergrad, CS & APPM
     subject: complex networks
 alumni:
   - name: Suyog Soti

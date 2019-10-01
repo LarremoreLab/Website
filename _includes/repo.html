@@ -1,0 +1,17 @@
+<div class="portfolio-item person_portfolio" style="max-width: 250px; max-height: 250px; margin-top: 1em;">
+  <a class="portfolio-item__link" href="{{repo.repo_url}}" target="_blank" style="max-width: 200px;">
+
+    <div class="portfolio-item__image" >
+      <img style="max-height: 200px;" src="{{ repo.thumb }}" alt="{{ repo.title }}">
+    </div>
+    <div class="portfolio-item__content">
+      <div class="portfolio-item__info">
+        <h2 class="portfolio-item__title">{{ repo.title }}</h2>
+      </div>
+    </div>
+  </a>
+  <div style="margin-top: .5em; height: 4em;">
+  <a href="{{repo.repo_url}}" target="_blank">{{repo.title}}</a>
+  </div>
+</div>
+<br>
