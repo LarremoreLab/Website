@@ -1,11 +1,11 @@
-<div class="portfolio-item person_portfolio" style="max-width: 300px; max-height: 300px; margin-top: 1em;">
+<div class="portfolio-item person_portfolio" style="max-width: 250px; max-height: 250px; margin-top: 1em;">
   {% if person.url %}
-  <a class="portfolio-item__link" href="{{ person.url }}" style="max-width: 250px;">
+  <a class="portfolio-item__link" href="{{ person.url }}" style="max-width: 200px;">
   {% else %}
-  <a class="portfolio-item__link" href="." style="max-width: 250px;">
+  <a class="portfolio-item__link" href="." style="max-width: 200px;">
   {% endif %}
     <div class="portfolio-item__image" >
-      <img style="max-height: 250px;" src="{{ person.pic }}" alt="{{ person.name }}">
+      <img style="max-height: 200px;" src="{{ person.pic }}" alt="{{ person.name }}">
     </div>
     <div class="portfolio-item__content">
       <div class="portfolio-item__info">
