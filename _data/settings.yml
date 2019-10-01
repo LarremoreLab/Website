@@ -13,10 +13,12 @@ menu_settings:
       url: '/people'
     - title: 'Papers'
       url: '/papers'
+    - title: 'Code'
+      url: '/code'
+    - title: 'Slides'
+      url: '/slides'
     - title: 'Lab Manual'
       url: '/manual'
-    - title: 'Software'
-      url: '/software'
 
 grid_settings:
   overlay_opacity: 0.8
