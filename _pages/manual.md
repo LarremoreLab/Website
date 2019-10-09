@@ -118,10 +118,10 @@ Be a good person at conferences. Compliment speakers only on their science, afte
 
 # "How to Science" Series
 
-- [Data visualization](http://samfway.com/viz_workshop.pdf)
-- [Giving a talk](http://danlarremore.com/slides/talk_workshop.pdf)
-- Clean code
-- Peer review
+- [Data visualization](https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_DataVisualization.pdf)
+- [Giving a talk](https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_GivingATalk.pdf)
+- [Clean code](https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_CleanCode.pdf)
+- [Peer review](https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_PeerReview.pdf)
 
 # Other Resources and Guides
 
