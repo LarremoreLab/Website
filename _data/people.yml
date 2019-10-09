@@ -6,7 +6,7 @@ people:
     subject: Assistant Professor
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
-    pic: /images/people/tzuchi.jpg
+    pic: /images/people/tzuchi.gif
     title: PhD Student, CS
     subject: complex networks
   - name: K. Hunter Wapman
@@ -14,24 +14,24 @@ people:
     pic: /images/people/hunter.gif
     title: PhD Student, CS
     subject: the scientific ecosystem
+  - name: Ian van Buskirk
+    pic: /images/people/ian.gif
+    title: PhD Student, CS
+    subject: the scientific ecosystem
+  - name: Nick LaBerge
+    pic: /images/people/nick.gif
+    title: PhD Student, CS
+    subject: the scientific ecosystem
+  - name: Mike Hoefer
+    pic: /images/people/mike.gif
+    title: PhD Student, CS
+    subject: the scientific ecosystem
   - name: Erik Johnson
     pic: /images/people/erik.gif
     title: PhD Student, APPM
     subject: malaria parasite genetics
-  - name: Ian van Buskirk
-    pic: /images/people/ianvanbuskirk.jpg
-    title: PhD Student, CS
-    subject: the scientific ecosystem
-  - name: Nick LaBerge
-    pic: /images/people/nicklaberge.jpg
-    title: PhD Student, CS
-    subject: the scientific ecosystem
-  - name: Mike Hoefer
-    pic: /images/people/mikehoefer.jpg
-    title: PhD Student, CS
-    subject: the scientific ecosystem
   - name: Kate Bubar
-    pic: /images/people/katebubar.jpg
+    pic: /images/people/kate.gif
     title: PhD Student, IQ Bio
     subject: malaria parasite genetics
   - name: Suchita Lulla
