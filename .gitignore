@@ -1,4 +1,4 @@
-_site/*
+_site/
 _site/js/plugins/*
 _site/js/index-min.js
 js/plugins/*
