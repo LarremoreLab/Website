@@ -1,7 +1,14 @@
 slides:
+  - title: "Workshop: Data Visualization"
+    url: https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_DataVisualization.pdf
+    title: "Workshop: Data Visualization"
+    thumb: /images/slides/workshop_DataVisualization.png
   - title: "Workshop: Giving a Talk"
-    url: /images/slides/talk_workshop.pdf
-    thumb: /images/slides/talk_workshop.png
+    url: https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_GivingATalk.pdf
+    thumb: /images/slides/workshop_GivingATalk.png
+  - title: "Workshop: Clean Code"
+    url: https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_CleanCode.pdf
+    thumb: /images/slides/workshop_CleanCode.png
   - title: "Workshop: Peer Review"
-    url: /images/slides/peer_review_workshop.pdf
-    thumb: /images/slides/peer_review_workshop.png
+    url: https://github.com/LarremoreLab/Resources/blob/master/slides/workshop_PeerReview.pdf
+    thumb: /images/slides/workshop_PeerReview.png
