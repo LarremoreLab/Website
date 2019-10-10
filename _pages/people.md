@@ -1,5 +1,5 @@
 ---
-title: The Team
+title: Lab Members
 ---
 
 <section class="portfolio">
