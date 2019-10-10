@@ -11,9 +11,10 @@ title: Lab Members
 </section>
 <section>
 	Alumni
-	<ul>
+	<ul class="noindent">
 	{% for person in site.data.people.alumni %}
 		<li>{{person.name}}</li>
 	{% endfor %}
 	</ul>
 </section>
+
